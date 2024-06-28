@@ -20,8 +20,8 @@ This keylogger tool captures and stores keystrokes on a target system. It record
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/paradoxing57/keylogger-tool.git
-    cd keylogger-tool
+    https://github.com/paradoxing57/Key-Logger.git
+    cd Key-Logger
     ```
 
 2. **Create and activate a virtual environment** (optional but recommended):
