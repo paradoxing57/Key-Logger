@@ -1,0 +1,5 @@
+
+### `requirements.txt`
+
+```plaintext
+pynput==1.7.3
